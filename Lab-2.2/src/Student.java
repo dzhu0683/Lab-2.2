@@ -9,7 +9,7 @@ public class Student extends People
 	}
 	public double GPA()
 	{
-		
+		s
 	}
 	
 	
