@@ -6,11 +6,10 @@ public class Runner
 	
 	public static void main(String[] args)
 	{
-		public abstract Teacher;
-		public abstract Students;
-		public abstract Classroom;
+		private String Teacher;
 	}
 	
 	
 	
-}
+}                                                
+                                                   

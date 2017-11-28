@@ -1,13 +1,16 @@
 
 public class Student extends People
 {
-	private double gpa;
-	private double osis;
-	private String major;
-	public Student(double gpa, double osis, String major)
+
+	public Student(String firstname, String familyname, double height, int weight, double GPA, double osis, String major) 
 	{
-		this.gpa = gpa;
-		this.osis = osis;
-		this.major = major;
+		super(firstname, familyname, height, weight);
+
 	}
+	public double GPA()
+	{
+		
+	}
+	
+	
 }

@@ -42,10 +42,6 @@ public abstract class People
 	public void setWeight(int weight) {
 		this.weight = weight;
 	}
-
-
-
-	
 }
 
 
