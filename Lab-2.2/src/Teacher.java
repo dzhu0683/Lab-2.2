@@ -7,6 +7,21 @@ public class Teacher extends People
 	{
 		super(firstname, familyname, height, weight);
 	}
+	
+	public String subject() {
+		return subject();
+	}
+	public String title() {
+		return title();
+	}
 
+	@Override
+	public String toString() {
+		return "Teacher [subject()=" + subject() + ", title()=" + title() + ", getFirstname()=" + getFirstname()
+				+ ", getFamilyname()=" + getFamilyname() + ", getHeight()=" + getHeight() + ", getWeight()="
+				+ getWeight() + ", getClass()=" + getClass() + ", hashCode()=" + hashCode() + ", toString()="
+				+ super.toString() + "]";
+	}
+	
+	
 }
-s

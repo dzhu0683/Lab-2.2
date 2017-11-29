@@ -5,7 +5,7 @@ public abstract class People
 	private double height;
 	private int weight;
 	public People(String firstname, String familyname, double height, int weight)
-	{s
+	{
 		this.firstname = firstname;
 		this.familyname = familyname;
 		this.height = height;
