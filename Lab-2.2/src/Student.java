@@ -9,6 +9,7 @@ public class Student extends People
 	public double GPA()
 	{
 		return GPA();
+		 
 	}
 	public double osis()
 	{
